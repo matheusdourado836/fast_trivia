@@ -12,3 +12,4 @@ Questionário de conhecimentos gerais com persistência de dados.
   - Cada usuário tem seus próprios questionários, sendo possível esgotar os questionários disponíveis para esse usuário, nesse caso uma mensagem irá aparecer para ele 
   - É necessário responder todas as perguntas para finalizar o questionário e ver a pontuação e as respostas
   - O aplicativo funciona tanto para web quanto para mobile, respeitando sua responsividade
+  - Está disponibilado também um APK para download do aplicativo
