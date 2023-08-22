@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675390555424",
+    "project_id": "fast-trivia-8e157",
+    "storage_bucket": "fast-trivia-8e157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675390555424:android:72bbceb89d9dec9aa9c345",
+        "android_client_info": {
+          "package_name": "com.example.fast_trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675390555424-4lsbeoea5kvjjkgerhfpdni5j5ngesbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcTISifsFXiMBTYkxB-3RsRu3iqgg0aC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675390555424-4lsbeoea5kvjjkgerhfpdni5j5ngesbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
