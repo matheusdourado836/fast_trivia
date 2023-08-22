@@ -1,16 +1,14 @@
-# fast_trivia
+# Fast Trivia
 
-A new Flutter project.
+Questionário de conhecimentos gerais com persistência de dados.
 
-## Getting Started
+## Versão do Flutter utilizada: Flutter 3.10.0
 
-This project is a starting point for a Flutter application.
+## Tecnologias utilizadas
+  - Provider para gerenciamento de estados
+  - Firebase para persistência externa de dados
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Informações do App
+  - Cada usuário tem seus próprios questionários, sendo possível esgotar os questionários disponíveis para esse usuário, nesse caso uma mensagem irá aparecer para ele 
+  - É necessário responder todas as perguntas para finalizar o questionário e ver a pontuação e as respostas
+  - O aplicativo funciona tanto para web quanto para mobile, respeitando sua responsividade
